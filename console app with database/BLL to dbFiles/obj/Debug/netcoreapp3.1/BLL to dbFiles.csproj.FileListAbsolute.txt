@@ -1,0 +1,10 @@
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\BLL to dbFiles\bin\Debug\netcoreapp3.1\BLL to dbFiles.deps.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\BLL to dbFiles\bin\Debug\netcoreapp3.1\BLL to dbFiles.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\BLL to dbFiles\bin\Debug\netcoreapp3.1\BLL to dbFiles.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\BLL to dbFiles\obj\Debug\netcoreapp3.1\BLL to dbFiles.csproj.AssemblyReference.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\BLL to dbFiles\obj\Debug\netcoreapp3.1\BLL to dbFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\BLL to dbFiles\obj\Debug\netcoreapp3.1\BLL to dbFiles.AssemblyInfoInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\BLL to dbFiles\obj\Debug\netcoreapp3.1\BLL to dbFiles.AssemblyInfo.cs
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\BLL to dbFiles\obj\Debug\netcoreapp3.1\BLL to dbFiles.csproj.CoreCompileInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\BLL to dbFiles\obj\Debug\netcoreapp3.1\BLL to dbFiles.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\BLL to dbFiles\obj\Debug\netcoreapp3.1\BLL to dbFiles.pdb

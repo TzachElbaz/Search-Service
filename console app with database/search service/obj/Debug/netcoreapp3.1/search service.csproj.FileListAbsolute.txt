@@ -1,0 +1,23 @@
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\search service.exe
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\search service.deps.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\search service.runtimeconfig.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\search service.runtimeconfig.dev.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\search service.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\search service.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\obj\Debug\netcoreapp3.1\search service.csproj.AssemblyReference.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\obj\Debug\netcoreapp3.1\search service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\obj\Debug\netcoreapp3.1\search service.AssemblyInfoInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\obj\Debug\netcoreapp3.1\search service.AssemblyInfo.cs
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\obj\Debug\netcoreapp3.1\search service.csproj.CoreCompileInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\obj\Debug\netcoreapp3.1\search service.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\obj\Debug\netcoreapp3.1\search service.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\obj\Debug\netcoreapp3.1\search service.genruntimeconfig.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\BLL to dbFiles.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\BLL to dbFiles.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\obj\Debug\netcoreapp3.1\search service.csproj.CopyComplete
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\search service\search service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

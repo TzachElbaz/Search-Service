@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tsahe\\OneDrive\\מסמכים\\John Bryce\\BackEnd Project\\search service\\search service\\search service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tsahe\\OneDrive\\מסמכים\\John Bryce\\BackEnd Project\\search service\\BLL to dbFiles\\BLL to dbFiles.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tsahe\\OneDrive\\מסמכים\\John Bryce\\BackEnd Project\\search service\\BLL to dbFiles\\BLL to dbFiles.csproj",
+        "projectName": "BLL to dbFiles",
+        "projectPath": "C:\\Users\\tsahe\\OneDrive\\מסמכים\\John Bryce\\BackEnd Project\\search service\\BLL to dbFiles\\BLL to dbFiles.csproj",
+        "packagesPath": "C:\\Users\\tsahe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tsahe\\OneDrive\\מסמכים\\John Bryce\\BackEnd Project\\search service\\BLL to dbFiles\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tsahe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tsahe\\OneDrive\\מסמכים\\John Bryce\\BackEnd Project\\search service\\search service\\search service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tsahe\\OneDrive\\מסמכים\\John Bryce\\BackEnd Project\\search service\\search service\\search service.csproj",
+        "projectName": "search service",
+        "projectPath": "C:\\Users\\tsahe\\OneDrive\\מסמכים\\John Bryce\\BackEnd Project\\search service\\search service\\search service.csproj",
+        "packagesPath": "C:\\Users\\tsahe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tsahe\\OneDrive\\מסמכים\\John Bryce\\BackEnd Project\\search service\\search service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tsahe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\tsahe\\OneDrive\\מסמכים\\John Bryce\\BackEnd Project\\search service\\BLL to dbFiles\\BLL to dbFiles.csproj": {
+                "projectPath": "C:\\Users\\tsahe\\OneDrive\\מסמכים\\John Bryce\\BackEnd Project\\search service\\BLL to dbFiles\\BLL to dbFiles.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.18, 3.1.18]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

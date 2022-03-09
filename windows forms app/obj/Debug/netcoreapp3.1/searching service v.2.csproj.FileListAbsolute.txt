@@ -1,0 +1,16 @@
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\bin\Debug\netcoreapp3.1\searching service v.2.exe
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\bin\Debug\netcoreapp3.1\searching service v.2.deps.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\bin\Debug\netcoreapp3.1\searching service v.2.runtimeconfig.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\bin\Debug\netcoreapp3.1\searching service v.2.runtimeconfig.dev.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\bin\Debug\netcoreapp3.1\searching service v.2.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\bin\Debug\netcoreapp3.1\searching service v.2.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\obj\Debug\netcoreapp3.1\searching service v.2.csproj.AssemblyReference.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\obj\Debug\netcoreapp3.1\searching_service_v._2.Form1.resources
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\obj\Debug\netcoreapp3.1\searching service v.2.csproj.GenerateResource.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\obj\Debug\netcoreapp3.1\searching service v.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\obj\Debug\netcoreapp3.1\searching service v.2.AssemblyInfoInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\obj\Debug\netcoreapp3.1\searching service v.2.AssemblyInfo.cs
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\obj\Debug\netcoreapp3.1\searching service v.2.csproj.CoreCompileInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\obj\Debug\netcoreapp3.1\searching service v.2.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\obj\Debug\netcoreapp3.1\searching service v.2.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\BackEnd Project\searching service v.2\searching service v.2\obj\Debug\netcoreapp3.1\searching service v.2.genruntimeconfig.cache
